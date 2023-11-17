@@ -21,6 +21,8 @@ Video demo:
 ![audio smd 2](./images/audio_smd_2.jpg?raw=true)  
 
 ## BONUS CONTENT... OEM PCBs!  
+![oem mb front with silk](./images/oem_mb_WITH_silk_front.jpg?raw=true)  
+![oem mb back with silk](./images/oem_mb_WITH_silk_back.jpg?raw=true)  
 ![oem mb front](./images/oem_mb_front.jpg?raw=true)  
 ![oem mb back](./images/oem_mb_back.jpg?raw=true)  
 ![audio oem 1](./images/audio_oem_1.jpg?raw=true)  
