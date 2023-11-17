@@ -6,7 +6,15 @@ This is a Gameboy that you can essentially make without using any original DMG p
 I made this late 2022 but there didn's seem to be much interest, so I never published any files.
 Now it's later in the year and I see there is a similar project released so I figured I'd share too :)
 
-[![Video demo](https://github.com/joeostrander/Gameboy-DMG-2022/blob/main/images/preview.jpg?raw=true)](https://youtu.be/d2NDXVqlKTY)
+[![Video demo](https://img.youtube.com/vi/d2NDXVqlKTY/0.jpg)](https://youtu.be/d2NDXVqlKTY)
+
+![mb front](./images/mb_front.jpg?raw=true)
+
+![mb back](./images/mb_back.jpg?raw=true)
+
+![audio 1](./images/audio1.jpg?raw=true)
+
+![audio 2](./images/audio2.jpg?raw=true)
 
 Short list of components:
 - Link port: ebay, DMG-07
@@ -20,3 +28,4 @@ Short list of components:
 - Cartridge adapter: aliexpress
 - Potentiometer: aliexpress
 - Audio jack: PJ-307A
+
