@@ -6,9 +6,7 @@ This is a Gameboy that you can essentially make without using any original DMG p
 I made this late 2022 but there didn's seem to be much interest, so I never published any files.
 Now it's later in the year and I see there is a similar project released so I figured I'd share too :)
 
-![preview](https://github.com/joeostrander/Gameboy-DMG-2022/blob/main/images/preview.jpg?raw=true)
-
-[Video demo](https://youtu.be/d2NDXVqlKTY)
+[![Video demo](https://github.com/joeostrander/Gameboy-DMG-2022/blob/main/images/preview.jpg?raw=true)](https://youtu.be/d2NDXVqlKTY)
 
 Short list of components:
 - Link port: ebay, DMG-07
