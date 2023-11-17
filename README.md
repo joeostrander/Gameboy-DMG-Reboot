@@ -20,7 +20,7 @@ Video demo:
 ![audio smd 1](./images/audio_smd_1.jpg?raw=true)  
 ![audio smd 2](./images/audio_smd_2.jpg?raw=true)  
 
-BONUS! OEM PCBs!  
+## BONUS CONTENT... OEM PCBs!  
 ![oem mb front](./images/oem_mb_front.jpg?raw=true)  
 ![oem mb back](./images/oem_mb_back.jpg?raw=true)  
 ![audio oem 1](./images/audio_oem_1.jpg?raw=true)  
